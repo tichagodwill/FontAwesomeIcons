@@ -1,0 +1,24 @@
+.App {
+  font-family: sans-serif;
+  background: linear-gradient(#e69, #919);
+  width: 100vw;
+  height: 100vh;
+}
+.contact {
+  display: block;
+  font-size: 1.1em;
+  margin-bottom: 8px;
+  margin-left: 8px;
+}
+.socials a {
+  border: 1px solid gray;
+  width: 45px;
+  height: 38px;
+  padding-top: 8px;
+  margin-right: 5px;
+  text-align: center;
+  display: inline-block;
+  font-size: 1.3em;
+  border-radius: 5px;
+  margin-left: 5px;
+}
